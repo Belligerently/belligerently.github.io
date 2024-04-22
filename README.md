@@ -21,7 +21,6 @@ My goal is to provide anyone in the 3DS/2DS homebrew scene apps to allow them to
 - [Twilight Menu++](https://github.com/DS-Homebrew/TWiLightMenu) (DS + 3DS)
 
 # Emulators included in twilight menu++:
-
 - GBArunner2
 - AmeDS
 - StellaDS
@@ -47,11 +46,11 @@ My goal is to provide anyone in the 3DS/2DS homebrew scene apps to allow them to
 - And more
 
 ## Emulators with files currently on this repo:
-- N/A
+- Snes9x
 
 ## Emulators that require external downloads:
 - [Red Viper](https://github.com/skyfloogle/red-viper/releases) (Virtual Boy)
-
+- [RetroArch](https://www.retroarch.com/?page=platforms)
 
 ## External Resources:
 - N/A
