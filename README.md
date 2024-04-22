@@ -17,14 +17,41 @@ My goal is to provide anyone in the 3DS/2DS homebrew scene apps to allow them to
 - [Hshop](https://hshop.erista.me/3hs)
 - [Ghost Eshop](http://ghosteshop.com)
 
-## Apps that require external downloadS:
+## Apps that require external downloads:
 - [Twilight Menu++](https://github.com/DS-Homebrew/TWiLightMenu) (DS + 3DS)
+
+# Emulators included in twilight menu++:
+
+- GBArunner2
+- AmeDS
+- StellaDS
+- A5200DS
+- A7800DS
+- A8DS
+- ColecoDS
+- SNEmulDS Revival
+- SNEmulDS
+- tuna-viDS
+- GameYob
+- S8DS
+- NitroGrafx
+- NitroSwan
+- NGPDS
+- nesDS
+- nesDS Twilight version
+- FastvideoDS
+- jEnesisDS
+- CrocoDS
+- PicodriveTWL
+- NINTV-DS
+- And more
 
 ## Emulators with files currently on this repo:
 - N/A
 
 ## Emulators that require external downloads:
 - [Red Viper](https://github.com/skyfloogle/red-viper/releases) (Virtual Boy)
+
 
 ## External Resources:
 - N/A
