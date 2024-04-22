@@ -56,3 +56,5 @@ My goal is to provide anyone in the 3DS/2DS homebrew scene apps to allow them to
 
 ## External Resources:
 - N/A
+
+### I would recommend Twilight Menu++ for emualtion of most things as it is the easiest to use
