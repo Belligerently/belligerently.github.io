@@ -17,11 +17,14 @@ My goal is to provide anyone in the 3DS/2DS homebrew scene apps to allow them to
 - [Hshop](https://hshop.erista.me/3hs)
 - [Ghost Eshop](http://ghosteshop.com)
 
-## Apps that require external download
+## Apps that require external downloadS:
 - [Twilight Menu++](https://github.com/DS-Homebrew/TWiLightMenu) (DS + 3DS)
 
 ## Emulators with files currently on this repo:
 - N/A
+
+## Emulators that require external downloads:
+- [Red Viper](https://github.com/skyfloogle/red-viper/releases) (Virtual Boy)
 
 ## External Resources:
 - N/A
