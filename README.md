@@ -2,6 +2,8 @@
 
 ## ⚠️ **I AM NOT HELD RESPONSIBLE IF ANYTHING HAPPENS TO _YOUR_ CONSOLE** ⚠️
 
+# Most things I linked, as an example, Anemone 3DS, will lead to the programs github page or website 
+
 ## If you don't know how to homebrew your 3DS/2DS please follow the [3DS Hacks Guide](https://3ds.hacks.guide/)
 
 ## What is this?
@@ -46,7 +48,7 @@ My goal is to provide anyone in the 3DS/2DS homebrew scene apps to allow them to
 - And more
 
 ## Emulators with files currently on this repo:
-- Snes9x
+- [Snes9x](https://github.com/bubble2k16/snes9x_3ds)
 
 ## Emulators that require external downloads:
 - [Red Viper](https://github.com/skyfloogle/red-viper/releases) (Virtual Boy)
