@@ -2,7 +2,7 @@
 
 ## ⚠️ **I AM NOT HELD RESPONSIBLE IF ANYTHING HAPPENS TO _YOUR_ CONSOLE** ⚠️
 
-# Most things I linked, as an example, Anemone 3DS, will lead to the programs github page or website 
+### Most things I linked, as an example, Anemone 3DS, will lead to the programs github page or website 
 
 ## If you don't know how to homebrew your 3DS/2DS please follow the [3DS Hacks Guide](https://3ds.hacks.guide/)
 
