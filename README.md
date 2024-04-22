@@ -52,7 +52,7 @@ My goal is to provide anyone in the 3DS/2DS homebrew scene apps to allow them to
 
 ## Emulators that require external downloads:
 - [Red Viper](https://github.com/skyfloogle/red-viper/releases) (Virtual Boy)
-- [RetroArch](https://www.retroarch.com/?page=platforms)
+- [RetroArch](https://www.retroarch.com/?page=platforms) (Most Consoles)
 
 ## External Resources:
 - N/A
