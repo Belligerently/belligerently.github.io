@@ -1,0 +1,33 @@
+1. Follow  the 3DS Hacks Guide all the way to the end
+
+* NOTE: You NEED FBI installed to continue!
+
+2. If you haven’t already, create a folder on the root of your SD Card called “cias” (excluding the quotation marks of course)
+
+3. Put the cia files downloaded into the “cias” folder
+
+4. Open FBI
+
+5. Select SD
+
+6. Find cias folder
+
+7. Find the cia you want to install and click the A button
+
+There will be a few options
+
+8. Select the “install and delete cia” option
+
+FBI will install the cia
+
+9. Once done installing press the B button until back to the menu where you started
+
+10. Press the home button and when in the home menu press X
+
+11. You will get a message saying that there are new apps installed
+
+12. Find the apps on your Home Screen and unwrap them
+
+13. Test them to see if they work
+
+If apps do not work, look up your issue, if that doesn’t work contact me for support or contact the developer of the Homebrew app
