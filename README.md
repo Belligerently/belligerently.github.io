@@ -8,7 +8,7 @@
 
 ## If you don't know how to homebrew your Wii please follow this guide [Wii Hacks Guide](https://wii.hacks.guide)
 
-## If you need any help regarding anything homebrew related ask here [Nintendo Homebrew Discord](https://discord.gg/nintendohomebrew)
+## If you need any help regarding anything homebrew related join [this server](https://discord.gg/nintendohomebrew)
 
 ## What is this?
 
