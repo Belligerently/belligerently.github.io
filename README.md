@@ -6,6 +6,7 @@
 
 ## If you don't know how to homebrew your DS please follow this guide [DSi CFW Guide](https://dsi.cfw.guide)
 
+## If you don't know how to homebrew your Wii please follow this guide [Wii Hacks Guide](https://wii.hacks.guide)
 ## What is this?
 
 My goal is to provide anyone in the 3DS/2DS homebrew scene apps to allow them to mess around with their system.
